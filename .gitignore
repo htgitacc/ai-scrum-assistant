@@ -1,0 +1,22 @@
+# Környezeti változók (API kulcsok!)
+.env
+
+# Python virtuális környezet
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS fájlok
+.DS_Store
+Thumbs.db
