@@ -37,7 +37,7 @@ This is a **Streamlit-based web application** that acts as an "AI team member" f
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-scrum-assistant.git
+git clone https://github.com/htgitacc/ai-scrum-assistant.git
 cd ai-scrum-assistant
 ```
 
@@ -109,7 +109,7 @@ This project was built as part of a personal upskilling journey. Key takeaways:
 
 Built by **xyo** — IT Security Specialist turned AI-Augmented Agile Practitioner.
 
-[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE/) | [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/tiborhanak/) | [GitHub](https://github.com/htgitacc
 
 ---
 
@@ -147,4 +147,4 @@ Egy **Streamlit alapú webalkalmazás**, ami "AI csapattagként" működik Scrum
 
 Készítette: **xyo** — IT biztonsági szakértőből AI-megerősített agilis szakember.
 
-[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE/) | [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/tiborhanak/) | [GitHub](https://github.com/htgitacc)
