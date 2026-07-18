@@ -79,6 +79,9 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## 📸 Screenshots
 
+![App Screenshot](./media/ai-scrum-assistant-1.png)
+![App Screenshot](./media/ai-scrum-assistant-2.png)
+![App Screenshot](./media/ai-scrum-assistant-3.png)
 <!-- Add screenshots here later -->
 <!-- ![English mode](screenshots/english.png) -->
 <!-- ![Hungarian mode](screenshots/hungarian.png) -->
