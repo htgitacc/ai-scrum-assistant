@@ -109,7 +109,7 @@ This project was built as part of a personal upskilling journey. Key takeaways:
 
 Built by **xyo** — IT Security Specialist turned AI-Augmented Agile Practitioner.
 
-[LinkedIn](https://www.linkedin.com/in/tiborhanak/) | [GitHub](https://github.com/htgitacc
+[LinkedIn](https://www.linkedin.com/in/tiborhanak/) | [GitHub](https://github.com/htgitacc/)
 
 ---
 
