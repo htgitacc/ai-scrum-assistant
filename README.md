@@ -148,6 +148,6 @@ Egy **Streamlit alapú webalkalmazás**, ami "AI csapattagként" működik Scrum
 
 ## 📬 Kapcsolat
 
-Készítette: **xyo** — IT biztonsági szakértőből AI-megerősített agilis szakember.
+Készítette: **xyo**
 
 [LinkedIn](https://www.linkedin.com/in/tiborhanak/) | [GitHub](https://github.com/htgitacc)
