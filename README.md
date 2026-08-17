@@ -108,14 +108,6 @@ This project was built as part of a personal upskilling journey. Key takeaways:
 
 ---
 
-## 📬 Contact
-
-Built by **xyo** — IT Security Specialist turned AI-Augmented Agile Practitioner.
-
-[LinkedIn](https://www.linkedin.com/in/tiborhanak/) | [GitHub](https://github.com/htgitacc/)
-
----
-
 ## 📄 License
 
 MIT License — feel free to use, modify, and share.
@@ -145,9 +137,3 @@ Egy **Streamlit alapú webalkalmazás**, ami "AI csapattagként" működik Scrum
 - **API absztrakció**: OpenAI-kompatibilis végpontokat használtam, így 50+ nyílt forráskódú modell érhető el szolgáltatói lock-in nélkül.
 - **Biztonság tervezési szinten**: A kockázatelemzést közvetlenül az agilis workflow-ba integráltam — ez a minta a legtöbb AI eszközből hiányzik.
 - **Prompt mérnökség**: Domain-specifikus system promptokat készítettem, amelyek ötvözik a Scrum Master és IT biztonsági szakértelmet.
-
-## 📬 Kapcsolat
-
-Készítette: **xyo**
-
-[LinkedIn](https://www.linkedin.com/in/tiborhanak/) | [GitHub](https://github.com/htgitacc)
